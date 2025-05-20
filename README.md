@@ -7,7 +7,6 @@ Room Availability – See how many rooms are available vs. occupied.
 Occupancy Percentage – Quick insight into current room usage.
 Booking Trends by Room Type – Visual breakdown of bookings across King, Queen, Double, Suite, Deluxe, and Single rooms.
 Revenue Chart – Tracks daily revenue trends.
-
 The left sidebar includes easy navigation to modules like Room Management, Staff, Booking, Guests, Discounts, and Finance.
 
 ![Screenshot 2025-05-20 205812](https://github.com/user-attachments/assets/935407b5-81a1-47a9-a957-0ea21064d30f)
