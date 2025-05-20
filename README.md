@@ -9,3 +9,6 @@ Booking Trends by Room Type – Visual breakdown of bookings across King, Queen,
 Revenue Chart – Tracks daily revenue trends.
 
 The left sidebar includes easy navigation to modules like Room Management, Staff, Booking, Guests, Discounts, and Finance.
+
+![Screenshot 2025-05-20 205812](https://github.com/user-attachments/assets/935407b5-81a1-47a9-a957-0ea21064d30f)
+This interface helps admins manage room reservations efficiently with real-time status tracking.
