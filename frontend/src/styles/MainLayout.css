@@ -1,0 +1,43 @@
+.main-layout {
+    display: flex;
+    flex:1;
+    min-height: 100vh;
+    overflow-y: hidden;
+    background-color: #fafafa;
+  }
+  
+  .content-wrapper {
+    flex: 1;
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    height:100vh;
+    
+  }
+  
+  .main-content {
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    height:100vh;
+    overflow-y: auto;
+    
+    > div {
+      width: 95%;
+      max-width: 1700px;
+      margin: 0 auto;
+    }
+  }
+
+  .MuiTableCell-root{                     
+    padding: 8px 0px !important;
+    border-collapse: separate;
+    border-spacing: 0 8px;
+  }
